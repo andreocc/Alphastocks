@@ -40,7 +40,7 @@ st.markdown(
     </style>
     """, unsafe_allow_html=True)
 
-st.title("📈 AlphaAnalytics Pro")
+st.title("📈 AlphaStock v1")
 
 ticker_input = st.text_input("Digite o ticker da ação (ex: PETR4.SA):").upper()
 
