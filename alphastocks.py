@@ -3,7 +3,7 @@ import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="AlphaAnalytics Pro", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="AlphaStock v1", layout="wide", initial_sidebar_state="expanded")
 
 # Estilo customizado para cards
 st.markdown(
